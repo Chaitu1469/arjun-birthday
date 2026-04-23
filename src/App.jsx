@@ -1,4 +1,4 @@
-import { Analytics } from "@vercel/analytics/react"
+
 import React, { useRef, useState, useEffect } from "react";
 import {
   motion,
